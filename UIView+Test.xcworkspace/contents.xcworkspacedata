@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <FileRef
+      location = "group:UIView+layout/UIView+layout.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UIView+UISnapshotting/UIView+UISnapshotting.xcodeproj">
+   </FileRef>
 </Workspace>
